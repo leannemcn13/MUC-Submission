@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Football Fanatic</string>
+    <string name="menuItem1">News</string>
+    <string name="menuItem2">Maps</string>
+    <string name="menuItem3">Draw</string>
+    <string name="menuItem4">League Table</string>
+    <string name="menuItem5">Home Page</string>
+    <string name="menuItem6">Your Profile</string>
+    <string name="title_activity_map">Map</string>
+    <string name="buttonMain">Input Favourite Team</string>
+    <string name="title_league">League Table</string>
+    <string name="newLine">
+        -
+    </string>
+</resources>

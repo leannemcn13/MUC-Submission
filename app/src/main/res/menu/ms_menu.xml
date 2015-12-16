@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item android:id="@+id/home"
+        android:title="@string/menuItem5" />
+
+    <item android:id="@+id/draw"
+        android:title= "@string/menuItem3" />
+
+    <item android:id="@+id/league_table"
+        android:title= "@string/menuItem4" />
+
+    <item   android:id= "@+id/maps"
+        android:title= "@string/menuItem2"/>
+
+    <item android:id= "@+id/news"
+        android:title="@string/menuItem1"/>
+
+
+</menu>
